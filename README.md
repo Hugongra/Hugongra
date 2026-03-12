@@ -29,8 +29,9 @@ I bridge the gap between **fundamental AI research** and **scalable engineering*
 ---
 
 ### 📊 Performance Metrics
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugongra&show_icons=true&theme=dracula)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugongra&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugongra&layout=compact&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hugongra&theme=dracula)
 
 ---
 
