@@ -1,43 +1,49 @@
 # Hugo G. Grañena 👋 
 
-### Research Engineer @ CERN | Research Assistant @ CMU | AI Product Builder
-
-I bridge the gap between **fundamental AI research** and **scalable engineering**. Currently refactoring LHCb physics analyses at CERN using Agentic AI and researching neural network scaling laws at Carnegie Mellon. I build at the frontiers of technology, from LLM architectures to decentralized finance.
-
----
-
-### 🛠 The Stack
-* **AI/ML:** PyTorch, LangChain/LangGraph (Agentic Frameworks), RAG, DeepFace, OpenCV, Spark.
-* **Systems & Infra:** CUDA (H100/T4 optimization), Docker, Redis, PostgreSQL, Celery.
-* **Languages:** Python (Expert), Rust, TypeScript, C++, Java, SQL, R.
+### Full-Stack AI Engineer & Product Builder (0-to-1)
+**I build high-stakes AI products from scratch.** While I operate at the frontiers of technology with **CERN** and **Carnegie Mellon**, my true obsession is the product lifecycle: identifying pain points, architecting scalable solutions, and shipping software that "people want."
 
 ---
 
-### 🔬 Current High-Impact Work
-* **CERN (LHCb):** Building a RAG-enhanced agentic framework to automate the restoration of legacy physics pipelines. Focusing on **Constitutional AI** to ensure scientific precision.
-* **CMU Research:** Investigating **Dropout Universality** and **Edge-of-Chaos** scheduling. Targeting NeurIPS 2026.
+### 🏗️ Featured Ships (From Ideation to Market)
+
+| Project | Role | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[Postwand](https://postwand.io)** | **Co-Founder** | AI SaaS automating social media for businesses. Managed full lifecycle from legal LLC incorporation to official Meta/Twitter API vetting. | React (Vite), Python/Flask, Celery, Redis, OpenAI |
+| **[GetBank](https://github.com/Hugongra/decentralizedbank)** | **Full-Stack** | High-complexity Solana lending protocol. Engineered interest rate models and liquidation engines with mid-six-figure budget scope. | Rust (Anchor), Java/Spring, Pyth Oracles, Angular |
+| **[JournalAI](#)** | **Builder** | Emotionally intelligent chatbot utilizing real-time facial expression recognition and CV. | OpenCV, DeepFace, Python, NLP |
 
 ---
 
-### 🏗 Featured Projects (Ship-to-Market)
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **JournalAI** | Emotionally intelligent chatbot using real-time facial expression recognition. | OpenCV, DeepFace, Python |
-| **GetBank** | High-complexity Solana lending protocol with liquidation engines & real-time oracles. | Rust, Anchor, Java/Spring |
-| **Postwand** | AI-powered social media management SaaS with GPT-4 integration. | React, Python/Flask, OpenAI API |
+### 🛠️ Technical Toolkit
+* **Core Languages:** Python (Expert), Rust, TypeScript, C++, Java, SQL.
+* **AI & Agentic Systems:** LangGraph, LangChain, RAG, Multi-Agent Orchestration, Langfuse, Vector DBs.
+* **Full-Stack & Systems:** Next.js 16, FastAPI, React (Zustand), Spark (Distributed Computing), CUDA (H100/T4).
+* **Execution & Infra:** Docker, Redis, Celery, GitHub Actions, Linux, UI/UX (Figma).
 
 ---
 
-### 📊 Performance Metrics
+### 🚀 Engineering at Scale (Current Work)
+* **CERN (LHCb):** Engineering a RAG-enhanced agentic framework to automate the restoration of legacy physics pipelines. Leveraging **MCP (Model Context Protocol) with Cursor** to synthesize decades of fragmented documentation.
+* **CMU Research:** Building high-performance training pipelines to investigate Scaling Laws and Dropout Universality. Focused on hardware-level optimization using **CUDA**.
+* **Accenture (Ex-Data & AI):** Developed specialized LLMs for Tier-1 global banking compliance, replacing legacy systems with enterprise-grade RAG architectures.
+
+---
+
+### 🧠 Philosophy
+> *"The best way to predict the future is to build it."*
+
+I am a **product-first** engineer. I follow the Y Combinator school of thought: iterate fast, talk to users, and prioritize **shipping velocity** over perfect abstraction. My background in Data Science and Computer Engineering allows me to bridge the gap between complex mathematical research and production-ready code.
+
+---
+
+### 📊 Proof of Work
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugongra&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugongra&layout=compact&theme=dracula)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hugongra&theme=dracula)
 
 ---
 
-### 🤝 Let's Build Something
+### 🤝 Connect & Collaborate
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hugogr/)
 [<img src="https://img.shields.io/badge/Personal%20Site-hugongra.me-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white">](https://hugongra.me/)
 [<img src="https://img.shields.io/badge/Substack-Market%20Insights-orange?style=for-the-badge&logo=substack&logoColor=white">](https://hugoggice.substack.com/)
-
-*"The best way to predict the future is to build it."*
