@@ -9,7 +9,7 @@
 
 | Project | Role | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[Postwand](https://postwand.io)** | **Co-Founder** | AI SaaS automating social media for businesses. Managed full lifecycle from legal LLC incorporation to official Meta/Twitter API vetting. | React (Vite), Python/Flask, Celery, Redis, OpenAI |
+| **[Postwand](https://github.com/Hugongra/Postwand_project)** | **Co-Founder** | AI SaaS automating social media for businesses. Managed full lifecycle from legal LLC incorporation to official Meta/Twitter API vetting. | React (Vite), Python/Flask, Celery, Redis, OpenAI |
 | **[GetBank](https://github.com/Hugongra/decentralizedbank)** | **Full-Stack** | High-complexity Solana lending protocol. Engineered interest rate models and liquidation engines with mid-six-figure budget scope. | Rust (Anchor), Java/Spring, Pyth Oracles, Angular |
 ---
 
