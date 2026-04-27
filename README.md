@@ -35,12 +35,6 @@ I am a **product-first** engineer. I follow the Y Combinator school of thought: 
 
 ---
 
-### 📊 Proof of Work
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugongra&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugongra&layout=compact&theme=dracula)
-
----
-
 ### 🤝 Connect & Collaborate
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hugogr/)
 [<img src="https://img.shields.io/badge/Personal%20Site-hugongra.me-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white">](https://hugongra.me/)
